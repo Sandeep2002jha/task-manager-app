@@ -27,7 +27,6 @@ I built this project to practice Flutter development and understand how real mob
 
 ![Home Screen](screenshots/empty-screen.png)
 ![Add Task](screenshots/tasks-added.png)
-
 ---
 
 ## ▶️ How to Run This Project
